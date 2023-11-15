@@ -2,7 +2,7 @@
 
 Este software lo desarrollé en mi universidad como un proyecto final en mi último semestre como estudiante. 
 
-El desarrollo de este software puso a prueba todos los conocimientos que había adquirido durante el tiempo que estuve en la universidad, era para mí un reto final, ya que había ciertas tecnologías que no conocía y tuve que aprender.  
+El desarrollo de este software puso a prueba todos los conocimientos que había adquirido durante el tiempo que estuve en la universidad, era para mí todo un reto final, ya que había ciertas tecnologías que no conocía y tuve que aprender.  
 
 Fue un desarrollo que empezó desde el modelado de la base de datos en MySQL pasando por la maquetación, estilos, hasta el desarrollo de las funciones y consultas a la base de datos. 
 La siguiente lista son las herramientas que utilice para este desarrollo:
@@ -33,5 +33,5 @@ Incluyen funciones principales como; llevar los registros de los pacientes, tene
 
 El resultado muestra un software amigable, intuitivo y sobre todo muestra buena administración.  
 
-Desarrollado en __Visual Studio Code , Larvel__
+Desarrollado en __Visual Studio Code , Laravel__
 
